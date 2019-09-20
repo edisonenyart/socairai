@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aforaidahf.10ktrees.com/sitemap.xml
